@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+
+<html lang="gl">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" /> <!-- o atributo ten que ver coa compatibilidade do navegador onde se consulta a páxina web (http-equiv=”X-UA-Compatible”), e onde no atributo content, o valor ie=edge fai referencia ao antigo navegador Internet Explorer-->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" /><!-- A metaetiqueta da ventana gráfica indica que o sitio web seguirá o ancho do dispositivo no que esté o usuario, xa sexa un móbil ou o escritorio-->
+        <link rel="stylesheet" href="izan.css" />
+		<link rel="stylesheet" media="screen and (max-width:768px)" href="mobile.css" /> <!-- Cando a pantalla e menor a 768px toma a referencia de esta stylesheet, así customizamos para o móbil se queremos cambiar o layout-->
+
+
+		<title>Segredo</title>
+
+		</head>
+	<body>
+			<header id="cabeceiraprincipal">
+				<nav id="navbar">
+					<div class="container">
+						<a href="#cabeceiraprincipal" class="logo"><img src="img/logoizan.png" alt="Logotipo de Izan" /></a>
+						<ul>
+					       <li><a href="index.html"> VOLTA </a> </li>
+					       <li><a href="#secret">SEGREDO</a></li>
+					       <li><a href="#video">CREACIÓN DA MIÑA WEB</a></li>
+					       
+                        </ul>
+					</div>
+				</nav>
+			</header>
+
+
+
+			<section id="secret">
+			<div class="container">
+				<h2>Segredo persoal</h2>
+
+				<p> O meu segredo persoal é que non me gusta o repolo </p>
+
+
+
+				<div class="secret-row"><!--Creamos un contenedor que vai conter os seguintes elementos-->
+            </div>
+			</div>
+</section>
+
+
+
+<section id="video">
+			<div class="container">
+				<h2>Como fixen a miña web?</h2>
+
+				<p> Esta páxina web naceu a partir dun proxecto da clase TIC na escola. </p>
+				<p> </p>
+				<p> A páxina web necesitou moitas clases e horas de creación e preparación, polo que a continuación tedes un vídeo explicando todo con un maior detalle </p>
+				<p> Para comezar, seguín os pasos da páxina web do meu profesor Serxio, pois a web debía ter un estilo semellante a esta. </p>
+				<p> Unha vez copiado o deseño, modifiquei os aspectos persoais, como por exeplo a dirección de correo electrónico, o número de teléfono, a miña traxectoria persoal, ou a miña descripción persoal. </p>
+				<p> Tras isto, e cando xa tiña unha páxina web que se axustaba á miña personalidade, continuei cambiando aspectos técnicos da web, personalizándoa como eu quería, e tamén seguindo os pasos que me mandaba o profesor nas instruccións.</p>
+				<p> Neste punto xa tiña unha páxina web moi distinta da orixinal. Esta contiña o meu logo personalizado, unha foto inicial ou banner meu, un link a miña rede social correspondente ao meu canal de YouTube, e unha morea de deseños cambiados. </p>
+				<p> O seguinte paso era crear unha nova páxina web externa (que é na que estamos agora) que tivese un secreto meu, que xa acabades de ver, e unha explicación (que é esta) sobre como realicei a miña web. </p>
+				<p> Esta páxina tamén debería de ter dúas seccións (unha co meu segredo e outra coa explicación) que podedes ver na parte de enriba desta web, pero ambas as dúas lévante ao mesmo sitio dado que ningunha sección é o suficientemente longa, malia isto, os botóns funcionarían de verdade se os textos foran máis longos. </p>
+				<p> </p>
+				<p> A web non ten moito máis, pero agora, para entendelo mellor, podedes ver o vídeo adxunto no que os quedará moito máis claro a creación e personalización da miña web. </p>
+            <p> Tamén vos deixarei un documento PDF a parte onde explico os coñecementos de HTML que necesitei para crear a web. <p>
+            	<p> https://drive.google.com/file/d/11qGf_YOpNvqPQjlsK-A9hMLpcb6gmhcY/view?usp=sharing <p>
+				<div class="video-row"><!--Creamos un contenedor que vai conter os seguintes elementos-->
+            </div>
+			</div>
+</section>
+
